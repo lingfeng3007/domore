@@ -6,6 +6,6 @@ package cn.domore.learn;
 public class GitLearn {
 
     public static void main(String[] args) {
-        System.out.println("Hello world1111");
+        System.out.println("Hello world2222");
     }
 }
